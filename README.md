@@ -7,7 +7,8 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <h2>Javascript:</h2>
 - <b>Pokémon API</b>
-- [Project](https://github.com/IsaacEa/Graphic-Adventure)
+
+  
 
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
@@ -20,6 +21,7 @@
 
 - <b>Graphic Adventure</b>
   - [Project](https://github.com/IsaacEa/Graphic-Adventure)
+  - 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
