@@ -4,7 +4,7 @@
 - <b>Platformer</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Asteroids</b>
-  - [Image Analysis Middleware](https://github.com/IsaacEa/Asteroids) 
+  - [Project](https://github.com/IsaacEa/Asteroids) 
 
   
 <h2>Javascript:</h2>
