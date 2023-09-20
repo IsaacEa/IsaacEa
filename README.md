@@ -2,7 +2,7 @@
 <h2>👨‍💻 My Unity projects:</h2>
 
 - <b>Platformer</b>
-  - [Project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project](https://github.com/IsaacEa/Platformer)
 - <b>Asteroids</b>
   - [Project](https://github.com/IsaacEa/Asteroids) 
 
