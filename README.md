@@ -13,7 +13,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>👨‍💻 C++ projects:</h2>
+<h2>👨‍💻 C/C++ projects:</h2>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
