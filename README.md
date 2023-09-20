@@ -5,8 +5,13 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Asteroids</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
+  
 <h2>Javascript:</h2>
-- <b>Pokémon API</b>
+
+- <b>Pokemon Api:</b>
+  - [Project](https://github.com/IsaacEa/Pokemon-API)
+  - 
 
   
 
